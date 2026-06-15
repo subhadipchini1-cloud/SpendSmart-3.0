@@ -1,0 +1,22 @@
+{
+  "name": "SpendSmart",
+  "short_name": "SpendSmart",
+  "description": "Your Personal Finance Tracker",
+  "start_url": "/SpendSmart-2.0/",
+  "display": "standalone",
+  "background_color": "#0A0A0F",
+  "theme_color": "#7C3AED",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f4b0.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f4b0.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
